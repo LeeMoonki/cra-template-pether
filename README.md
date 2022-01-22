@@ -1,4 +1,4 @@
-# Create React App peTher template
+# Create React App pether template
 
 Using This template
 

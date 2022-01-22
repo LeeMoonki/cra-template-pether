@@ -1,16 +1,23 @@
 {
-  "name": "cra-template-pather",
+  "name": "cra-template-pether",
   "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "pather"
+    "pether"
   ],
   "description": "A template of the Create React App using well known libraries.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeeMoonki/cra-template-pether.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/LeeMoonki/cra-template-pether/issues"
   },
   "files": [
     "template",
