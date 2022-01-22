@@ -3,7 +3,7 @@
 Using This template
 
 ```
-yarn create react-app [project name] pether
+yarn create react-app [project name] --template pether
 ```
 
 This Template includes following
