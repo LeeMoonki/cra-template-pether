@@ -3,7 +3,7 @@
 Using This template
 
 ```
-yarn create react-app [project name] cra-template-pether
+yarn create react-app [project name] pether
 ```
 
 This Template includes following
