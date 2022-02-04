@@ -7,7 +7,7 @@ module.exports = {
     jest: true,
   },
   parserOptions: { ecmaVersion: 8 },
-  extends: ['eslint:recommended',],
+  extends: ['eslint:recommended'],
   overrides: [
     {
       files: ['src/**/*.ts?(x)'],
@@ -49,6 +49,7 @@ module.exports = {
         'react/require-default-props': 'off',
         'react/self-closing-comp': 'off',
         'react/prop-types': 'off',
+        'react/function-component-definition': 'off',
 
         'jsx-a11y/label-has-associated-control': 'off',
         'jsx-a11y/label-has-for': 'off',
@@ -63,6 +64,6 @@ module.exports = {
           },
         ],
       },
-    }
-  ]
+    },
+  ],
 };
