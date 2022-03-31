@@ -17,4 +17,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ steps.extracting_version_name.outputs.version }}
-        release_name: ${{ steps.extracting_version_name.outputs.version }}
+        name: ${{ steps.extracting_version_name.outputs.version }}
