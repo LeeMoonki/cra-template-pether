@@ -6,7 +6,7 @@ Using This template
 yarn create react-app [project name] --template pether
 ```
 
-This Template includes following.
+This Template includes following
 
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
